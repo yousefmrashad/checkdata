@@ -33,6 +33,6 @@ Data Scaling (Sec 4)
 Feature Selection (Sec 4)
 
 **Yousef**\
-Classification
+Regression
 Evaluation (Sec 8)
 
