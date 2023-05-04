@@ -3,7 +3,6 @@
     1. git clone https://github.com/yousefmrashad/checkdata
 ```    
 ```    
-
     2. code checkdata
 ```       
 ```    
