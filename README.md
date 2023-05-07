@@ -2,7 +2,8 @@
 ```
     git clone https://github.com/yousefmrashad/checkdata
 ```    
-## Work with it <font size="2">In installation directory</font>
+<font size="5">Work with it</font> <font size="2">In installation directory</font>
+
 Open in your software, in case vscode
 ``` 
     code checkdata
