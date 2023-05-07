@@ -1,38 +1,42 @@
-# Installation
+## Installation locally
 ```
-    1. git clone https://github.com/yousefmrashad/checkdata
+    git clone https://github.com/yousefmrashad/checkdata
 ```    
-```    
-    2. code checkdata
+## Work with it <font size="2">In installation directory</font>
+Open in your software, in case vscode
+``` 
+    code checkdata
 ```       
 ```    
-    3. <make your changes to <checkdata.ipynb> file>
+   <make your changes to <checkdata.ipynb> file>
+```    
+Fetch remote changes
+```    
+    git pull
+```    
+Stage & Commit the changes you did
+```    
+    git add . 
 ```    
 ```    
-    4. git pull
+    git commit -m "<your commit message>"
+```     
+Push your work remotely  
 ```    
-```    
-    5. git add . 
-```    
-```    
-    6. git commit -m "<your commit message>"
-```       
-```    
-    7. git push -u origin main 
+    git push -u origin main 
 ```
 --- 
 ## Contributers
 **Nayra**\
-Data cleaning / preperation (Sec 8 + search: duplicated data)
-(Data visualisation) (Sec 4)
+Data cleaning / preperation
+(Data visualisation)
 
 **Mohamed Alaa**\
-Data Scaling (Sec 4)
+Data Scaling / Transforming
 
 **Sherbini**\
-Feature Selection (Sec 4)
+Feature Selection
 
 **Yousef**\
-Regression
-Evaluation (Sec 8)
-
+Regression\
+Evaluation
